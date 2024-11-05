@@ -1,4 +1,3 @@
-import { relative } from "path";
 import React from "react";
 import { FaPizzaSlice } from "react-icons/fa6";
 import { FaSearch } from "react-icons/fa";

@@ -16,7 +16,7 @@ export default function Banner() {
           Discover Our Menu
         </h2>
         <p className="text-white text-lg text-center mb-6 max-w-xl">
-          Order Now for an Exclusive Pizza Deal You Can't Resist!
+          Order Now for an Exclusive Pizza Deal You Cannot Resist!
         </p>
 
         <button
